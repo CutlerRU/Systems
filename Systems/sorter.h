@@ -2,8 +2,8 @@
 //  Header.h
 //  CompArc
 //
-//  Created by Tushar Sharma on 9/28/17.
-//  Copyright © 2017 Tushar Sharma. All rights reserved.
+//  Created by Tushar Sharma and Sam Cutler on 9/28/17.
+//  Copyright © 2017 Tushar Sharma and Sam Cutler. All rights reserved.
 //
 
 
